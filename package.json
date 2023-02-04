@@ -1,0 +1,21 @@
+{
+  "name": "odin-project-bst",
+  "version": "1.0.0",
+  "description": "https://www.theodinproject.com/lessons/javascript-binary-search-trees",
+  "main": "script.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lindavid1998/odin-project-bst.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lindavid1998/odin-project-bst/issues"
+  },
+  "homepage": "https://github.com/lindavid1998/odin-project-bst#readme"
+}
